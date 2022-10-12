@@ -1,0 +1,22 @@
+button{
+    background-color: lightblue;  
+    color: black;  
+    font-size: 20px;  
+    margin: auto;
+    display: flex;   
+}
+
+#tamagotchi{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.valaszthatoKep:hover{
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: 3s;
+	transition: 3s;
+}
